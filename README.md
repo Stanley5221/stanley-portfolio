@@ -1,78 +1,44 @@
-<<<<<<< HEAD
-# Welcome to your Lovable project
+# Stanley Agyei - Portfolio
 
-## Project info
+Welcome to my personal portfolio. I am a Data Analyst, Web Developer, and Licensed Drone Pilot (GIS Specialist) currently based in the UK. This website showcases my journey from building real-world systems in Ghana to pursuing an MSc in Data Science at the University of Sunderland.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 About the Project
 
-## How can I edit this code?
+This portfolio is built with precision and modern aesthetics to reflect my technical background. It features a cinematic hero section, an interactive chronological journey, and a detailed project showcase.
 
-There are several ways of editing your application.
+### Tech Stack
+- **Framework**: React 18 with Vite
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Components**: Shadcn/UI
+- **Icons**: Lucide React
 
-**Use Lovable**
+## 🎯 Key Sections
+- **Journey**: A reverse-chronological timeline of my career from freelance design to large-scale GIS mapping.
+- **Projects**: Real-world systems including Land Parcel management, Database migrations, and Drone mapping.
+- **Skills**: Highlighting my expertise in IT, Web Development, and GIS.
+- **Drone Mapping**: Featuring immersive drone footage from projects in Ghana.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 📈 My Journey
+- **2018–2022**: Early curiosity in design and IT at UENR, Ghana.
+- **2022–2024**: Building enterprise systems and flying mapping drones for complex infrastructure projects.
+- **2025–Present**: Advanced studies in Data Science at the University of Sunderland, UK.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 💻 Local Development
 
-**Use your preferred IDE**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Stanley5221/stanley-portfolio.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm i
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-=======
-# stanley-portfolio
-Personal portfolio website built with React, TypeScript, Vite, and Shadcn UI. Showcasing my projects, skills, and experience in Drone Flying (Mapping) and IT.
->>>>>>> 5e2e935a853167ab1be548e43f2ad50abf0673d2
+---
+*Created by Stanley Agyei — Connecting Data, Design, and Discovery.*
