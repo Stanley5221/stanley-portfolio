@@ -59,7 +59,7 @@ const chapters: Chapter[] = [
         name: "Synergy Land Parcel System",
         role: "Lead Web Developer",
         icon: Map,
-        image: "../public/2.png", // Map/GIS
+        image: "/2.png", // Map/GIS
         tech: ["HTML", "CSS", "PHP", "JS", "Google Maps"],
         achievement: "Eradicated double sales, streamlined land information",
         description: "A comprehensive land management system with interactive maps, KML file uploads, buyer tracking, and real-time parcel visualization. Built for Synergy Empresa Ltd to manage land sales across multiple sites.",
@@ -79,7 +79,7 @@ const chapters: Chapter[] = [
         name: "Land Secretariat Database",
         role: "Lead Web Developer",
         icon: BarChart3,
-        image: "../public/1.png", // Data/Charts
+        image: "/1.png", // Data/Charts
         tech: ["HTML", "CSS", "PHP", "JS", "Google Maps"],
         achievement: "30% increase in data accuracy",
         description: "Internal and external data management system for the Land Secretariat, enabling accurate record-keeping and spatial data integration for government land administration.",
@@ -89,7 +89,7 @@ const chapters: Chapter[] = [
         name: "Virtual Tours (Hotels)",
         role: "Business Improvement",
         icon: Camera,
-        image: "../public/4.jpg", // Hotel/VR
+        image: "/4.jpg", // Hotel/VR
         tech: ["Drones", "360° Cameras"],
         achievement: "50% boost in engagement & bookings",
         description: "Created immersive 360° virtual tours for Aratina and Eusbet hotels, enhancing online presence and driving direct bookings through interactive visual experiences.",
@@ -99,7 +99,7 @@ const chapters: Chapter[] = [
         name: "Synergy Company Website",
         role: "Lead Developer",
         icon: Globe,
-        image: "../public/5.png", // Website/Typing
+        image: "/5.png", // Website/Typing
         tech: ["HTML", "CSS", "JavaScript"],
         achievement: "Improved online presence",
         description: "Designed and developed the official company website with a focus on user experience, responsive design, and clear communication of services.",
@@ -119,7 +119,7 @@ const chapters: Chapter[] = [
         name: "FancyWave Travel",
         role: "Lead Developer",
         icon: Plane,
-        image: "../public/6.png",
+        image: "/6.png",
         tech: ["HTML", "CSS", "PHP", "JavaScript"],
         achievement: "Complete Booking Solution",
         description: "A comprehensive travel booking platform featuring destination guides, currency conversion, and a seamless booking flow for international and local travelers.",
@@ -129,7 +129,7 @@ const chapters: Chapter[] = [
         name: "Dewaks Engineering",
         role: "Lead Developer",
         icon: Code,
-        image: "../public/7.png",
+        image: "/7.png",
         tech: ["HTML", "CSS", "PHP", "JavaScript"],
         achievement: "Professional Service Platform",
         description: "A robust business website developed for an engineering firm, focusing on service presentation, project portfolios, and client engagement.",
@@ -139,7 +139,7 @@ const chapters: Chapter[] = [
         name: "Excelon Tech Institute",
         role: "Lead Developer",
         icon: Globe,
-        image: "../public/8.png",
+        image: "/8.png",
         tech: ["HTML", "CSS", "PHP", "JavaScript"],
         achievement: "Streamlined Educational Management",
         description: "An educational platform designed to manage institutional data, student applications, and information dissemination for a technology institute.",
@@ -155,7 +155,7 @@ const chapters: Chapter[] = [
     story: "Working with Lumen Development as a licensed drone pilot, I took on projects that most people only see from the ground. I processed 1,500 acres of aerial imagery into orthomosaic maps, created 3D terrain models, and helped plan military logistics zones. I also co-planned master plans for the Catholic Church Grotto and Mary Queen of Peace — projects that balanced community needs with sustainable development.",
     photoCaption: "Drone shots, aerial maps, and field work",
     video: "/Sunyani.mp4",
-    image: "../public/16.jpg",
+    image: "/16.jpg",
     projects: [
       {
         name: "Catholic Church Grotto Master Plan",
@@ -200,7 +200,7 @@ const chapters: Chapter[] = [
         name: "Ghana Army Command Zones Map",
         role: "Assistant Planner",
         icon: Map,
-        image: "../public/11.jpg", // Logistics/Map
+        image: "/11.jpg", // Logistics/Map
         tech: ["GIS", "Mapping Tools"],
         achievement: "20% better logistics efficiency",
         description: "Operational efficiency mapping for Ghana Armed Forces command zones, optimizing resource allocation and logistics through geospatial analysis.",
@@ -215,7 +215,7 @@ const chapters: Chapter[] = [
     story: "University was where I discovered my true calling. Studying IT at UENR, I went beyond textbooks — earning Huawei certifications (HCIA-DATACOM, HCIA-Routing & Switching) and eventually becoming a Teaching Assistant, mentoring the next generation of developers. This is where coding, networking, and data all came together.",
     photoCaption: "University campus, classes, and certification moments",
     projects: [],
-    image: "../public/9.jpeg",
+    image: "/9.jpeg",
   },
   {
     id: "early-years",
@@ -225,7 +225,7 @@ const chapters: Chapter[] = [
     story: "My journey started as a freelance graphic designer at Eusbet Hotel and for local clients across Ghana. I designed brochures, flyers, posters, and digital banners — learning how visual communication could transform a small business's presence. These early years taught me the power of design thinking and client relationships.",
     photoCaption: "Photos from your early freelance design days",
     projects: [],
-    image: "../public/10.jpg",
+    image: "/10.jpg",
   },
 ];
 

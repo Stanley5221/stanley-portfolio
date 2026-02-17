@@ -196,7 +196,7 @@ export default function Hero() {
               >
                 <div className="w-full h-full rounded-full overflow-hidden border-2 border-white/10 glass-panel">
                   <img
-                    src="../public/pic.jpg"
+                    src="/pic.jpg"
                     alt="Stanley Agyei"
                     className="w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-700 hover:scale-110"
                   />
