@@ -9,7 +9,7 @@ export default function Footer() {
           <a href="https://www.linkedin.com/in/stanley-agyei-4333042ba/" aria-label="LinkedIn" className="text-muted-foreground hover:text-primary transition-colors">
             <Linkedin className="h-4 w-4" />
           </a>
-          <a href="#" aria-label="GitHub" className="text-muted-foreground hover:text-primary transition-colors">
+          <a href="https://github.com/Stanley5221" aria-label="GitHub" className="text-muted-foreground hover:text-primary transition-colors">
             <Github className="h-4 w-4" />
           </a>
           <a href="mailto:stanleyagyei61@gmail.com" aria-label="Email" className="text-muted-foreground hover:text-primary transition-colors">
