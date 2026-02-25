@@ -67,7 +67,7 @@ export default function Contact() {
               <a href="https://www.linkedin.com/in/stanley-agyei-4333042ba/" className="p-2 rounded-lg bg-card border border-border hover:border-primary/40 transition-colors" aria-label="LinkedIn">
                 <Linkedin className="h-5 w-5 text-muted-foreground hover:text-primary transition-colors" />
               </a>
-              <a href="#" className="p-2 rounded-lg bg-card border border-border hover:border-primary/40 transition-colors" aria-label="GitHub">
+              <a href="https://github.com/Stanley5221" className="p-2 rounded-lg bg-card border border-border hover:border-primary/40 transition-colors" aria-label="GitHub">
                 <Github className="h-5 w-5 text-muted-foreground hover:text-primary transition-colors" />
               </a>
             </motion.div>
