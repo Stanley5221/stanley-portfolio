@@ -11,7 +11,7 @@ import { fadeUp, stagger } from "@/lib/animations";
 const info = [
   { icon: Mail, label: "stanleyagyei61@gmail.com", href: "mailto:stanleyagyei61@gmail.com" },
   { icon: Phone, label: "+44 7990 662741", href: "tel:+447990662741" },
-  { icon: MapPin, label: "Sunderland SR4 6US, UK", href: "https://maps.app.goo.gl/gQv8dFfdaE7hybie8" },
+  { icon: MapPin, label: "UNITED KINGDOM", href: "https://maps.app.goo.gl/gQv8dFfdaE7hybie8" },
 ];
 
 export default function Contact() {
