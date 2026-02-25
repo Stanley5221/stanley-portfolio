@@ -35,7 +35,7 @@ export default function Navbar() {
             </a>
           ))}
           <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground gap-1.5 glow-green" asChild>
-            <a href="/Stanley Agyei CV TT.pdf" download="Stanley_Agyei_CV.pdf">
+            <a href="/Stanley Agyei CV TT.pdf" download="STANLEY_CV.pdf">
               <Download className="h-3.5 w-3.5" /> CV
             </a>
           </Button>
@@ -61,7 +61,7 @@ export default function Navbar() {
                 </a>
               ))}
               <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground gap-1.5" asChild>
-                <a href="/Stanley Agyei CV TT.pdf" download="Stanley_Agyei_CV.pdf">
+                <a href="/Stanley Agyei CV TT.pdf" download="STANLEY_CV.pdf">
                   <Download className="h-3.5 w-3.5" /> Download CV
                 </a>
               </Button>
